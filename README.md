@@ -18,9 +18,11 @@
 
 ---
 
-### 🌐 Live Demo
+### 🌐 Deployed Application
 
-**[ResumeHub](https://resumehub-app.netlify.app/)**
+**Frontend**: [ResumeHub App](https://resumehub-app.netlify.app/) *(Deploying soon)*
+
+**Backend API**: [https://resumehub-othb.onrender.com/](https://resumehub-othb.onrender.com/)
 
 ---
 

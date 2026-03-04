@@ -1,0 +1,13 @@
+# Dependencies for both server and client
+/backend/node_modules
+/frontend/node_modules
+
+# Production build output from the client
+/frontend/dist
+
+# Environment variables - VERY IMPORTANT
+.env
+/backend/.env
+
+# User-uploaded content - VERY IMPORTANT
+/backend/uploads

@@ -20,7 +20,7 @@
 
 ### 🌐 Deployed Application
 
-**Frontend**: [ResumeHub App](https://resumehub-app.netlify.app/) *(Deploying soon)*
+**Frontend**: [ResumeHub App](https://resume-29c7r75kw-harshita-yadavs-projects-63189c67.vercel.app/)
 
 **Backend API**: [https://resumehub-othb.onrender.com/](https://resumehub-othb.onrender.com/)
 

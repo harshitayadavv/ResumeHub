@@ -17,10 +17,11 @@ const PORT = process.env.PORT || 5000;
 app.use(cors({
   origin: function(origin, callback) {
     const allowedOrigins = [
-      process.env.CORS_ORIGIN || "http://localhost:5173",
-      "http://localhost:3000",
-      "http://localhost:5173"
-    ];
+  process.env.CORS_ORIGIN || "http://localhost:5173",
+  "http://localhost:3000",
+  "http://localhost:5173",
+  "https://resume-hub-rho.vercel.app"  // ✅ ADD THIS
+];
     
     if (!origin || allowedOrigins.includes(origin)) {
       callback(null, true);
